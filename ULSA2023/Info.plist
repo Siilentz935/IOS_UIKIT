@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Do you wanna let us access your location with the app?</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Technology-Bold 2</string>
+		<string></string>
+		<string>Technology 2 </string>
+		<string>Technology-Italic 2</string>
+		<string>Technology-BoldItalic 2</string>
+	</array>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Vamos a usar tu FaceId</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Do you wanna let us access your location with the app?</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>

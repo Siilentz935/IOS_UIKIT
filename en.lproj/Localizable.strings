@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  ULSA2023
+
+  Created by ITIT on 21/03/23.
+  
+*/
+
+
+"name" = "Name";
+"address" = "Address";
+"profile" = "Prophile";
+"phone" = "Phone";
+"profileOf" = "Prhofile of %@";

@@ -1,0 +1,28 @@
+PODS:
+  - lottie-ios (4.1.3)
+  - NotificationView (0.2.5)
+  - SwiftVideoBackground (3.4.0)
+  - SwiftySound (1.2.0)
+
+DEPENDENCIES:
+  - lottie-ios
+  - NotificationView
+  - SwiftVideoBackground
+  - SwiftySound
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - NotificationView
+    - SwiftVideoBackground
+    - SwiftySound
+
+SPEC CHECKSUMS:
+  lottie-ios: d0954d3150061f662ed0adf96ef98d7421864c47
+  NotificationView: bcefe832af2bb65700406d0e4cb070cd9f433557
+  SwiftVideoBackground: 826e0567c737ded2a211aa309e9951c643695e8f
+  SwiftySound: 9eb28bb14edb601b40027e44319e0ef8383f88bf
+
+PODFILE CHECKSUM: 44d3db20fb35f2d847f52b2a8a226e768cd4ded1
+
+COCOAPODS: 1.11.2
